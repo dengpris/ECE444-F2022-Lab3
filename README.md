@@ -5,7 +5,7 @@ Please note that this repo is a clone of the [Assignment_1_starter_template](htt
 
 This is a modified version of the previous Assignment1 template.
 
-The deploye version can be found at https://lab3-docker.herokuapp.com.
+The deployed version can be found at https://lab3-docker.herokuapp.com.
 
 ## Changes
 + Removed hardcodes of backend urls.
