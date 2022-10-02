@@ -1,6 +1,17 @@
 # Priscilla Deng
 Please note that this repo is a clone of the [Assignment_1_starter_template](https://github.com/ECE444-2022Fall/Assignment_1_starter_template).
 
+## Activity 2
+![](screenshots/Activity_2.png)
+
+## Activity 3
+![](screenshots/Activity_3.png)
+
+## Activity 4
+![](screenshots/Activity_4_1.png)
+![](screenshots/Activity_4_2.png)
+![](screenshots/Activity_4_3.png)
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
